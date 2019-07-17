@@ -1,0 +1,165 @@
+body{}
+.templete{
+	margin:0 auto;
+	
+}
+
+/*headersection*/
+
+.top {
+    height: 40px;
+    background: #218838;
+}
+
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.right ul {
+    margin-top: 5px;
+}
+.right ul li{
+	float: left;
+	display: block;
+}
+.right ul li a{
+	color: #fff;
+	margin:5px; 
+}
+.right ul li a i {
+    margin-left: 10px;
+    margin-right: 12px;
+}
+.right ul li a:hover{}
+.right select {
+    margin-right: 20px;
+    margin-top: 0px;
+    padding: 2px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.logo, .shoppingcart, .searchbox{
+	padding-top:20px;
+
+}
+
+.logo a {
+    font-size: 25px;
+    text-decoration: none;
+}
+.logo a:hover{
+	text-decoration: none;
+}
+.logo p {
+    color: #80444E;
+    font-weight: normal;
+}
+
+
+.searchbox input[type="text"] {
+    width: 515px;
+    border: 2px solid #FE6060;
+    padding: 4px;
+    margin-left: -45px;
+    border-radius: 2px;
+    margin-top: 5px;
+}
+
+.searchbox input[type="submit"] {
+    background: #218838;
+    padding: 5px;
+    border: 1px solid #f0f0f0;
+    color: #fff;
+    font-weight: normal;
+}
+
+.searchbox input[type="submit"]:hover{
+	background:#80444E;
+	color: #fff;
+	font-weight: normal;
+	transition: 0.4s ease-in;
+	border:1px solid #218838;
+}
+.cart{
+
+}
+.cart a {
+    font-size: 22px;
+    color: #006515;
+    text-decoration: none;
+    margin-left: 45px;
+}
+
+.cart a:hover{
+		text-decoration: none;
+	    color:#80444E;
+	   font-weight: normal;
+	    transition: 0.4s ease-in;
+
+}
+
+.cart i {
+    font-size: 37px;
+    margin-right: 10px;
+    padding: 0px;
+    margin-top: -2px;
+    color: #E25C5C;
+}
+/*headersection*/
+
+/*navsection*/
+.navsection {
+    padding: 30px;
+    border-top: 1px solid #dddde0;
+    
+}
+.category{}
+.category h3 {
+    color: #218838;
+    font-size: 22px;
+}
+.category ul{
+
+}
+.category ul li{
+	display: block;
+}
+.category ul li a{}
+.category ul li a {
+    line-height: 30px;
+    border-bottom: 1px solid #DDD;
+    padding-bottom: 8px;
+}
+/*navsection*/
+.banner img {
+    margin-left: 42px;
+    border-radius: 5px;
+}
+
+
+
+/*Join Section*/
+
+.join {
+    border: 1px solid #ddd;
+    height: 230px;
+    padding: 8px;
+    width: 198px;
+    box-shadow: 0px 1px 2px 0px;
+    margin-left: -32px;
+}
+.join i {
+    font-size: 50px;
+    color: #218838;
+}
+.join h4 {
+    font-size: 15px;
+    margin-top: 15px;
+}
+.join button1{}
+.join button2{}
+
+/*Join Section*/
